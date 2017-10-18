@@ -1,0 +1,42 @@
+/*
+#f9f9e0 - light beige for background
+#213a63 - dark blue color for container
+
+
+
+*/
+
+
+
+body {
+	background: #f9f9e0;
+}
+
+.container{
+	height: 100px;
+	width: 100px;
+	background: #213a63;
+	color: #f9f9e0;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+img{
+	height: 300px;
+	width: 500px;
+}
+
+h3, p{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+}
+
+h3{
+		font-size: 50px;
+	}
+
+}
+p{
+	font-size: 30px;
+}
